@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lab10_service.cpp
+d:\bsuir\3_cours\сп\6-10\l10\lab10_service\lab10_service.cpp(179): warning C4101: 'wmEvent': unreferenced local variable
+  lab10_service.vcxproj -> D:\BSUIR\3_cours\СП\6-10\l10\Project1\Debug\lab10_service.exe

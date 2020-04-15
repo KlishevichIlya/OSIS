@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  L1.cpp
+d:\bsuir\3_cours\сп\6-10\l6\l1.cpp(129): warning C4101: 'str': unreferenced local variable
+  Laba_One.vcxproj -> D:\BSUIR\3_cours\СП\6-10\l6\Debug\Laba_One.exe

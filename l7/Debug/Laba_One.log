@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laba_One.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Laba_One.vcxproj -> D:\BSUIR\3_cours\СП\6-10\l7\Debug\Laba_Two.exe

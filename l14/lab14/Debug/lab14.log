@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  lab14.cpp
+  RegistryService.cpp
+d:\bsuir\3_cours\сп\labs\l14\lab14\registryservice.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab14.vcxproj -> D:\BSUIR\3_cours\СП\Labs\l14\Project1\Debug\lab14.exe
